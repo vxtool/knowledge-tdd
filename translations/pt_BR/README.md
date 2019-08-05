@@ -1,4 +1,4 @@
-# Knowledge on Test Driven Development
+# Conhecimento sobre Test Driven Development
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
 [![GitHub issues](https://img.shields.io/github/issues/org-victorinox/knowledge-tdd.svg)](https://github.com/org-victorinox/knowledge-tdd/issues)
@@ -7,22 +7,22 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/knowledge-tdd.svg)
 ![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/knowledge-tdd/total.svg)
 
-## Translations
+## Traduções
 
-* [Portuguese - Brazil](translations/pt_BR)
+* [ORIGINAL](https://github.com/org-victorinox/knowledge-tdd/)
 
-## Contributing
+## Contribuindo
 
-- Fork it!
-- Create your feature branch: `git checkout -b my-new-feature`
-- Commit your changes: `git commit -m 'Add some feature'`
-- Push to the branch: `git push origin my-new-feature`
-- Submit a pull request
+- Faça o fork!
+- Crie a sua branch feature: `git checkout -b my-new-feature`
+- Faça o commit das suas alterações: `git commit -m 'Add some feature'`
+- Faça o push para o servidor: `git push origin my-new-feature`
+- E realize o pull request
 
 ## Log
 
-Check [Releases](https://github.com/org-victorinox/knowledge-tdd/releases) for detailed changelog.
+Verifique os [Releases](https://github.com/org-victorinox/knowledge-tdd/releases) ver detalhado o log de alterações.
 
-## License
+## Licença
 
 [MIT license](http://hemersonvianna.mit-license.org/) © Hemerson Vianna
